@@ -1,3 +1,30 @@
+
+
+- [Syntax](#syntax)
+  - [Title](#title)
+  - [Paragraph](#paragraph)
+  - [Font](#font)
+    - [Bold](#bold)
+    - [Italic](#italic)
+    - [Italic and bold](#italic-and-bold)
+    - [Strikeout](#strikeout)
+  - [List](#list)
+    - [UnOrder list](#unorder-list)
+    - [Order list](#order-list)
+  - [Reference](#reference)
+  - [Code](#code)
+    - [\`\`](#)
+    - [Tab or four blank](#tab-or-four-blank)
+    - [\`\`\` contains the code and appoint a language](#-contains-the-code-and-appoint-a-language)
+  - [Split line](#split-line)
+  - [Link](#link)
+    - [Senior Link](#senior-link)
+  - [Image](#image)
+  - [Table](#table)
+  - [Html](#html)
+    - [Change Color](#change-color)
+  - [Transferred meaning](#transferred-meaning)
+
 # Syntax
 
 ## Title
@@ -166,6 +193,11 @@ For Example:
 
 ## Html
 You can try to add html element. Maybe will support.
+### Change Color
+<font color="red">red</font>
+```
+<font color="red">red</font>
+```
 
 ## Transferred meaning
 Because of the md use many special character to indicate special meaning.
