@@ -13,6 +13,13 @@
 # Markdown All in One
 1. ctrl + shift + v open the preview in other slide.
 2. ctrl+m Switching mathematical environments
+3. ctrl/⌘ + shift+ P type and choice "Markdown All in One: Create Table of Contents" to generate the catalogue
+4. ctrl/⌘ + shift+ P type and choice "Markdown: Open Preview to the Side" to open the preview tab
+
+# Paste Image
+1. ctrl + alt + v  paste image
+
 
 # DeepL
 1. ctrl + c + c  translate the choice word and sentence.
+
