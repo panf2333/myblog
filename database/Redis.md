@@ -1,7 +1,7 @@
 # Redis
 ## resource
 [官网](https://redis.io/docs/data-types/)  
-[9种数据结构](https://juejin.cn/post/7108920755592626207)
+[9种数据结构](https://juejin.cn/post/7108920755592626207)  
 [结构实现](https://www.cnblogs.com/hunternet/p/9989771.html)
 
 ## data structure
