@@ -20,3 +20,4 @@ SafePoint 就是一个安全点，可以理解为用户线程执行过程中的�
 
 这意味着，Stop-The-World 需要所有的用户线程处于 SafePoint。
 test
+test2
