@@ -161,9 +161,9 @@ we can use variable to set link. And set the link variable under the variable or
 
 [runoob1]: http://www.runoob.com/
 For Example:  
-[Runoob][runoob]
-[Runoob1][runoob1]
-[runoob]: http://www.runoob.com/
+[Runoob][runoob]  
+[Runoob1][runoob1]    
+[runoob]: http://www.runoob.com/    
 ![](assets/seniorLink.png)
 
 ## Image
