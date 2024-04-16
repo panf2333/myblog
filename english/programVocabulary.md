@@ -1,10 +1,19 @@
 # Symbol 符号
 |en|cn
-|:---:|:---:|
+|:---:|:---|
 |curly braces|{}大括号，花括号|
+|square bracket|[] 方括号
 |comma| ,逗号
 |divider| 分割线  
 |hyphens| - 连字符
+|single quotes|' 单引号
+|double quotes|" 双引号
+|backticks|` 反引号
+|line breaks|\n 换行符
+|quote|' 引号  <br>v.引用; 报价; 引述; 为（企业的股份）上市，挂牌; 出价; 为报价; 开价; 举例说明
+n.引用
+|notation|n.符号; (数学、科学和音乐中的)记号; 谱号
+
 
 
 # Feature 特性
@@ -48,7 +57,6 @@
 |GB|Giga Byte
 |TB|Tera Byte
 |PB|Peta Byte
-
 |DAG|Directed Acyclic Graph (DAG) 有向无环图
 
 
