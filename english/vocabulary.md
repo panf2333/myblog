@@ -5,6 +5,11 @@ description: blurring
 # Vocabulary
 
 ## catalogs
+|1|2|3|4|5|6|7|8|9|10  
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|[A](#a) | [B](#b) |[C](#c)   |[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)
+|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|[Q](#q)|[R](#r)    |[S](#s)    |[T](#t)
+|[U](#u)|[V](#v)|[W](#w)|[X](#x)|[Y](#y)   |[Z](#z)
 
 
 
@@ -14,20 +19,169 @@ description: blurring
 [catalogs](#catalogs)
 |en|cn
 |:---:|:---|
+|arguably|adv.(常用于形容词比较级或最高级前)可论证地，按理|
+|allowance|n.津贴; 补贴; 补助; 免税额; 限额; 定量<br>v.给…发津贴；按定量供给|
+|afford |v.买得起; 给予; (有时间)做，能做; 提供; 承担得起(后果)
+
 ## B
+[catalogs](#catalogs)
 |en|cn
 |:---:|:---|
-blurring|n 模糊 <br>  v 模糊
-seam|n.接缝; 煤层; (合在一起的两块木板等之间的)缝隙; 矿层; 裂缝; (缝合两块布等的)线缝  <br>  vi.缝合; 接合; 焊合; 使产生裂缝; 发生裂痕  
-seamless|adj.无(接)缝的; (两部分之间)无空隙的，不停顿的
-|literal|adj.字面意义的; 缺乏想象力的; 完全按原文的<br> n.【误印
-<br> example: template literals: 字面量模板
-|equivalent|adj.(价值、数量、意义、重要性等)相同的; 相等的<br>n.等量; 对应词;
-|recognize|vt.认识; 承认; (正式)认可，接受，赞成; 认出; 意识到; 赞赏; 辨别出; 正式向…致谢
-|Conversely|相反的; 相反地; 相反的是; 反过来
-|Conclusion|n.结论; 结果; 结束; 缔结; 达成; 签订; 结局; 推论; 结尾
-|manipulate|vt.操纵; (熟练地)操作; (暗中)控制; 使用; 影响; 正骨; 治疗脱臼
-|Prerequisites|先决条件; 条件; 必要条件; 前置条件
-|retrieve|vt.检索; 取回; 检索数据; 找回; 挽回; 索回; 扭转颓势<br>n.恢复
-|subsequent|adj.随后的; 之后的; 后来的; 接后的
-|stick|(stuck) v.粘贴; 粘住; 被接受; （在某物中）卡住，陷住，动不了; (尤指迅速或随手)放置; 戳; 容忍; 将…刺入(或插入); 对…不感兴趣; 不再要牌<br>n.棍，条，签; （飞机的）操纵杆，驾驶杆; 一管，一支（胶棒等）; 枝条; 批评; （车辆的）变速杆，换挡杆; 枯枝; 球棍; 指挥棒; 条状物; 棍状物; 柴火棍儿
+|blurring|n 模糊 <br>  v 模糊|
+
+## C
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---|
+|Conversely|相反的; 相反地; 相反的是; 反过来|
+|Conclusion|n.结论; 结果; 结束; 缔结; 达成; 签订; 结局; 推论; 结尾|
+|comprehension|n.理解力; (语言学习中的)理解练习(或训练); 领悟能力
+
+## D
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+delimit|vt.限定; 划界; 界定; 定…的界限
+
+## E
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|equivalent|adj.(价值、数量、意义、重要性等)相同的; 相等的<br>n.等量; 对应词;|
+|explicitly|adv.明确地; 明白地|
+
+## F
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+fuel|n.燃料; (尤指使争论等继续或更加激烈的)刺激性言行<br>v.增加; 给(交通工具)加油; 给…提供燃料; 加强; 刺激
+|forecast |n.预测; 预报<br>vt.预测; 预报
+
+## G
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+grab|v.抓住; (试图)抓住，夺得; 利用，抓住(机会); （尤指匆忙地）取，拿，吃，喝; 攫取; 捞取，赚取，抢占; 引人注意<br>n.抓斗; 抓具; 抓取(或截取、采集)的图像; 突然的抢夺; 猛然的抓取
+
+## H
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## I
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+indentation|n.凹陷; 缺口; 凹痕; 造成凹陷(或缺口); 行首缩进; 行首空格; 将行首缩进|
+
+
+## J
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## K
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## L
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|literal|adj.字面意义的; 缺乏想象力的; 完全按原文的<br> n.【误印<br> example: template literals: 字面量模板
+|liters|n.（计量）公升（容量单位）
+
+
+
+## M
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|manipulate|vt.操纵; (熟练地)操作; (暗中)控制; 使用; 影响; 正骨; 治疗脱臼|
+|mechanism |n.机械装置; 机制; 方法; (生物体内的)机制，构造; 机件
+
+## N
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## O
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+omit|v.省略; 忽略; 遗漏; 删除; 漏掉; 不做; 未能做|
+opposite|adj.相反的; 对面的; 另一边的; 迥然不同的<br>n.反面; 对立面; 对立的人(或物)<br>prep.与…相对; 在…对面; 与…合演; 与…联袂演出<br>adv.在对面，对过|
+obvious|adj.明显的; 显然的; 当然的; 公认的; 平淡无奇的; 易理解的; 无创意的; 因显而易见而不必要的|
+outcome|n: 结果，效果
+
+## P
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|Prerequisites|先决条件; 条件; 必要条件; 前置条件|
+|Play around a bit| 玩一玩，随便玩玩，多玩一下|
+|perhaps|adv.也许，大概; 也许，如果; (表示不确定)也许; (用于粗略的估计)或许; 可能; 大概<br>n.假定; 猜想; 未定之事|
+## Q
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## R
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|recognize|vt.认识; 承认; (正式)认可，接受，赞成; 认出; 意识到; 赞赏; 辨别出; 正式向…致谢|
+|retrieve|vt.检索; 取回; 检索数据; 找回; 挽回; 索回; 扭转颓势<br>n.恢复|
+
+## S
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+splice|vt.粘接(胶片、磁带等); 绞接(两段绳子); 捻接<br>n.绞接处; 胶接处; 粘接处|
+seam|n.接缝; 煤层; (合在一起的两块木板等之间的)缝隙; 矿层; 裂缝; (缝合两块布等的)线缝  <br>  vi.缝合; 接合; 焊合; 使产生裂缝; 发生裂痕  |
+seamless|adj.无(接)缝的; (两部分之间)无空隙的，不停顿的|
+|subsequent|adj.随后的; 之后的; 后来的; 接后的|
+|stick|(stuck) v.粘贴; 粘住; 被接受; （在某物中）卡住，陷住，动不了; (尤指迅速或随手)放置; 戳; 容忍; 将…刺入(或插入); 对…不感兴趣; 不再要牌<br>n.棍，条，签; （飞机的）操纵杆，驾驶杆; 一管，一支（胶棒等）; 枝条; 批评; （车辆的）变速杆，换挡杆; 枯枝; 球棍; 指挥棒; 条状物; 棍状物; 柴火棍儿|
+|so on| 以此类推|
+substitutions|n.取代; 置换; 代入; 代换|
+|surround|vt.(使)包围，围住; 围绕; 环绕; 与…紧密相关; 喜欢结交（某类人）<br>n.(物品的)边，饰边; 周围|
+|scold|v.责骂; 训斥(孩子)<br>n.唠唠叨叨[吵吵嚷嚷,高声]骂人的人[妇女]
+
+## T
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+|tank|n.(贮放液体或气体的)箱，槽，罐; 坦克; （人工）水池，湖，水库; 箱(或桶等)所装之物; 一箱(或一桶等)的量 <br>    v.(尤指故意)输掉(比赛); 倒闭; 破产; 彻底失败|
+truck|n.卡车; (运送货物、士兵、动物等后面敞开的)载重汽车; (运送东西的)手推车，手拉车; (铁路上运送货物或动物的)敞篷车，无盖车皮<br>vt.用卡车装运
+|theory|n.理论; 原理; 论; 说; 原则; 学说; 看法; (未证明的)意见; 推测
+
+## U
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+underneath|prep./adv.在下面; 在…底下; (指真实的感情或性格)在…表象之下; 隐藏(或掩盖)在下面<br>n.底部; (物体的)下表面; 底面<br>adj.下面的; 底层的; 较低的; 字里行间的
+## V
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## W
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## X
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## Y
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
+
+## Z
+[catalogs](#catalogs)
+|en|cn
+|:---:|:---| 
