@@ -1,4 +1,11 @@
 # AEVO
+principal:  
+0.1555 + 0.06=0.2155 ETH   
+582.47 + 1999.75 + 2300.77 = 4882.99 USDC
+
+0.0233 ETH transfer to 71.93 USDC
+0.1922 ETH
+4882.99 + 71.93 = 4954.92 USDC
 
 # Week
 |option|quantity|price|fee|totalAmount|

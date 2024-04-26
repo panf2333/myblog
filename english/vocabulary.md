@@ -22,6 +22,8 @@ description: blurring
 |arguably|adv.(常用于形容词比较级或最高级前)可论证地，按理|
 |allowance|n.津贴; 补贴; 补助; 免税额; 限额; 定量<br>v.给…发津贴；按定量供给|
 |afford |v.买得起; 给予; (有时间)做，能做; 提供; 承担得起(后果)
+|anonymous|adj.匿名的; 不具名的; 不知姓名的; 没有特色的; 名字不公开的
+|arrow|n.箭; 箭头; 箭号
 
 ## B
 [catalogs](#catalogs)
@@ -36,12 +38,16 @@ description: blurring
 |Conversely|相反的; 相反地; 相反的是; 反过来|
 |Conclusion|n.结论; 结果; 结束; 缔结; 达成; 签订; 结局; 推论; 结尾|
 |comprehension|n.理解力; (语言学习中的)理解练习(或训练); 领悟能力
+cumbersome|adj.大而笨重的; 累赘的; 冗长的; 复杂的; 难以携带的; 缓慢复杂的
+compact|n.契约; 协定; 协议; 合约; 小汽车; 带镜小粉盒<br>adj.紧凑的; 小型的; 紧密的; 体积小的; 袖珍的; 坚实的; 矮小而健壮的<br>vt.把…紧压在一起(或压实)|
+compartment|n.(铁路客车车厢分隔成的)隔间; (家具或设备等的)分隔间，隔层
 
 ## D
 [catalogs](#catalogs)
 |en|cn
 |:---:|:---| 
 delimit|vt.限定; 划界; 界定; 定…的界限
+downside|n.缺点; 不利方面
 
 ## E
 [catalogs](#catalogs)
@@ -73,6 +79,7 @@ grab|v.抓住; (试图)抓住，夺得; 利用，抓住(机会); （尤指匆忙
 |en|cn
 |:---:|:---| 
 indentation|n.凹陷; 缺口; 凹痕; 造成凹陷(或缺口); 行首缩进; 行首空格; 将行首缩进|
+identical|adj.完全相同的; 相同的; 同一的; 完全同样的
 
 
 ## J
@@ -122,6 +129,9 @@ outcome|n: 结果，效果
 |Prerequisites|先决条件; 条件; 必要条件; 前置条件|
 |Play around a bit| 玩一玩，随便玩玩，多玩一下|
 |perhaps|adv.也许，大概; 也许，如果; (表示不确定)也许; (用于粗略的估计)或许; 可能; 大概<br>n.假定; 猜想; 未定之事|
+|pseudo|adj.伪; 假的; 冒充的
+n.伪君子; 假冒的人|
+
 ## Q
 [catalogs](#catalogs)
 |en|cn
@@ -133,6 +143,7 @@ outcome|n: 结果，效果
 |:---:|:---| 
 |recognize|vt.认识; 承认; (正式)认可，接受，赞成; 认出; 意识到; 赞赏; 辨别出; 正式向…致谢|
 |retrieve|vt.检索; 取回; 检索数据; 找回; 挽回; 索回; 扭转颓势<br>n.恢复|
+|rapid|adj.快速的; 迅速的; 快捷的; 瞬间的; 短时间内发生的<br>n.急流; 湍流; 滩
 
 ## S
 [catalogs](#catalogs)
@@ -147,6 +158,9 @@ seamless|adj.无(接)缝的; (两部分之间)无空隙的，不停顿的|
 substitutions|n.取代; 置换; 代入; 代换|
 |surround|vt.(使)包围，围住; 围绕; 环绕; 与…紧密相关; 喜欢结交（某类人）<br>n.(物品的)边，饰边; 周围|
 |scold|v.责骂; 训斥(孩子)<br>n.唠唠叨叨[吵吵嚷嚷,高声]骂人的人[妇女]
+slight|adj.轻微的; 略微的; 瘦小的; 细小的; 纤细的; 不足道的; 无须重视的<br>n.轻视; 冷落; 侮慢<br>vt.轻视; 冷落; 侮慢|
+
+
 
 ## T
 [catalogs](#catalogs)
@@ -165,7 +179,7 @@ underneath|prep./adv.在下面; 在…底下; (指真实的感情或性格)在�
 [catalogs](#catalogs)
 |en|cn
 |:---:|:---| 
-
+|versus|prep.(表示两队或双方对阵)对，诉，对抗; (比较两种不同想法、选择等)与…相对，与…相比|
 ## W
 [catalogs](#catalogs)
 |en|cn

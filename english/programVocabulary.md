@@ -16,6 +16,8 @@ n.引用
 |notation|n.符号; (数学、科学和音乐中的)记号; 谱号
 |semicolon|分号
 |colon|n.冒号; 结肠|
+|ternary|三元; 三元的; 三角图; 三进位; 三段体|
+|arrow|n.箭; 箭头; 箭号|
 
 
 # Feature 特性

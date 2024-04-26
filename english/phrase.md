@@ -13,3 +13,6 @@ move up a gear
 used up 
 进行
 carry out
+
+一次又一次
+over and over again
