@@ -1,4 +1,6 @@
 # Symbol 符号
+>https://onlymyenglish.com/symbol-name-list-english/
+
 |en|cn
 |:---:|:---|
 |curly braces|{}大括号，花括号|
@@ -18,6 +20,7 @@ n.引用
 |colon|n.冒号; 结肠|
 |ternary|三元; 三元的; 三角图; 三进位; 三段体|
 |arrow|n.箭; 箭头; 箭号|
+|hash|n.(尤指电话上的)#号; (回锅)肉丁土豆; 搞砸<br>v.把……弄糟（乱）; 反复推敲; 仔细考虑; 剁（肉）; 细切（肉）; 斩碎; 斩（肉）
 
 
 # Feature 特性
@@ -25,6 +28,7 @@ n.引用
 |:---:|:---:|
 |polymorphism| 多态R
 |encapsulation| 封装
+|Inheritance|继承
 
 # Architecture 架构
 
@@ -51,6 +55,7 @@ n.引用
 # Abbreviate 缩写
 |en|cn|
 |:---:|:---|
+|JSON|JavaScript Object Notation (JSON)|
 |e.g. | 例如
 |etc | 等等
 |URL| 统一资源定位符（Uniform Resource Locator，URL）是一个定义了在网络上的位置的一个文本字符串
