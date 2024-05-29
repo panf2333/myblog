@@ -16,3 +16,6 @@ carry out
 
 一次又一次
 over and over again
+
+摆脱，除去; 赶走; 甩掉; 丢弃，毁掉
+get rid of
