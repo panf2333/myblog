@@ -19,3 +19,12 @@ over and over again
 
 摆脱，除去; 赶走; 甩掉; 丢弃，毁掉
 get rid of
+
+马上
+right away
+
+实战，在行动中
+in action
+
+随着; 随同…一起，跟…一起
+along with 
