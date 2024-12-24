@@ -1,0 +1,28 @@
+@startuml
+autonumber
+User -> Gateway: create chat 
+Gateway -> Gateway: token or api-key verify
+Gateway -> Saas: create chat
+Saas -> Saas: chat record
+Gateway <-- Saas: response chatId
+User <-- Gateway: response chatId
+loop chat
+ User -> Gateway: send message
+ Gateway -> Gateway: token or api-key verify 
+ Gateway -> Gateway: rate limit by strategy
+ Gateway -> Saas: balance check
+ Gateway <-- Saas: return true or false
+ Gateway -> Model: send message
+ alt streaming not stop
+  Gateway <-- Model: streaming response
+  User <-- Gateway: streaming response
+ else streaming stop
+  Gateway <-- Model: streaming response
+  Gateway -> Saas: send token info
+  Saas -> Saas: balance change
+  Gateway <-- Saas: success
+  User <-- Gateway: streaming response
+  end
+
+end
+@enduml

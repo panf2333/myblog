@@ -1,0 +1,33 @@
+@startuml
+autonumber
+fe -> saas: temp create
+saas -> fe: temp id
+fe -> saas: get config
+saas -> fe: config
+fe <-- saas: response chatId
+loop upload yotta
+ fe -> saas: upload/getSts?filename=XXX
+ saas -> fe: datasetid, token and path
+ fe -> aws: upload file
+end
+
+fe -> saas: calculate with datasetids
+fe <- saas: estimate cost
+
+fe -> saas: create
+saas -> saas: delete files not in create datasets
+fe <- saas: success
+
+saas -> schedule: create fine tune job
+loop query job state
+  saas -> schedule: query job
+  saas <- schedule: job state
+  saas -> saas: update job state
+end
+
+alt single node
+schedle -> agent: fine tune job 
+agent -> agnet: run job, upload log file, extract metric from log file
+schedle <- agent: job result
+end
+@enduml
